@@ -2,7 +2,7 @@ Dive into the thrilling 2D gaming world created by Humbal Hassan and Sanaan Tayy
 
 Get Ready:
 
-Fuel your excitement with a C++ compiler, ignite the gaming engine with the SFML library, and gear up for an optimal experience with Visual Studio, our recommended compiler.
+Fuel your excitement with a C++ compiler, ignite the gaming engine with the SFML library, and gear up for an optimal experience with Visual Studio, our recommended compiler. 
 
 Dive into the Action:
 
